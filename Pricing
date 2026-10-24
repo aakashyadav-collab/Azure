@@ -1,0 +1,145 @@
+
+{
+  "products": [
+    {
+      "ProductID": 101,
+      "ProductName": "Laptop",
+      "Category": "Electronics",
+      "Price": 60000.00,
+      "Inventory": 25
+    },
+    {
+      "ProductID": 102,
+      "ProductName": "Smartphone",
+      "Category": "Electronics",
+      "Price": 25000.00,
+      "Inventory": 40
+    },
+    {
+      "ProductID": 103,
+      "ProductName": "Headphones",
+      "Category": "Accessories",
+      "Price": 2000.00,
+      "Inventory": 75
+    },
+    {
+      "ProductID": 104,
+      "ProductName": "Keyboard",
+      "Category": "Accessories",
+      "Price": 1500.00,
+      "Inventory": 60
+    },
+    {
+      "ProductID": 105,
+      "ProductName": "Monitor",
+      "Category": "Electronics",
+      "Price": 12000.00,
+      "Inventory": 30
+    },
+    {
+      "ProductID": 106,
+      "ProductName": "Mouse",
+      "Category": "Accessories",
+      "Price": 800.00,
+      "Inventory": 100
+    },
+    {
+      "ProductID": 107,
+      "ProductName": "Tablet",
+      "Category": "Electronics",
+      "Price": 30000.00,
+      "Inventory": 20
+    },
+    {
+      "ProductID": 108,
+      "ProductName": "Smartwatch",
+      "Category": "Wearables",
+      "Price": 8000.00,
+      "Inventory": 35
+    },
+    {
+      "ProductID": 109,
+      "ProductName": "USB Cable",
+      "Category": "Accessories",
+      "Price": 300.00,
+      "Inventory": 150
+    },
+    {
+      "ProductID": 110,
+      "ProductName": "Power Bank",
+      "Category": "Accessories",
+      "Price": 1800.00,
+      "Inventory": 80
+    },
+    {
+      "ProductID": 111,
+      "ProductName": "Printer",
+      "Category": "Electronics",
+      "Price": 15000.00,
+      "Inventory": 15
+    },
+    {
+      "ProductID": 112,
+      "ProductName": "Webcam",
+      "Category": "Accessories",
+      "Price": 2500.00,
+      "Inventory": 45
+    },
+    {
+      "ProductID": 113,
+      "ProductName": "Gaming Console",
+      "Category": "Gaming",
+      "Price": 45000.00,
+      "Inventory": 12
+    },
+    {
+      "ProductID": 114,
+      "ProductName": "Gaming Headset",
+      "Category": "Gaming",
+      "Price": 5000.00,
+      "Inventory": 28
+    },
+    {
+      "ProductID": 115,
+      "ProductName": "External SSD",
+      "Category": "Storage",
+      "Price": 7000.00,
+      "Inventory": 32
+    },
+    {
+      "ProductID": 116,
+      "ProductName": "Router",
+      "Category": "Networking",
+      "Price": 3500.00,
+      "Inventory": 22
+    },
+    {
+      "ProductID": 117,
+      "ProductName": "Bluetooth Speaker",
+      "Category": "Audio",
+      "Price": 4000.00,
+      "Inventory": 38
+    },
+    {
+      "ProductID": 118,
+      "ProductName": "Microphone",
+      "Category": "Audio",
+      "Price": 6000.00,
+      "Inventory": 18
+    },
+    {
+      "ProductID": 119,
+      "ProductName": "Laptop Stand",
+      "Category": "Accessories",
+      "Price": 1200.00,
+      "Inventory": 55
+    },
+    {
+      "ProductID": 120,
+      "ProductName": "Projector",
+      "Category": "Electronics",
+      "Price": 40000.00,
+      "Inventory": 8
+    }
+  ]
+}
