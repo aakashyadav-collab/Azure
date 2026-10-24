@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Price,Inventory
+101,Laptop,Electronics,60000.00,25
+102,Smartphone,Electronics,25000.00,40
+103,Headphones,Accessories,2000.00,75
+104,Keyboard,Accessories,1500.00,60
+105,Monitor,Electronics,12000.00,30
+106,Mouse,Accessories,800.00,100
+107,Tablet,Electronics,30000.00,20
+108,Smartwatch,Wearables,8000.00,35
+109,USB Cable,Accessories,300.00,150
+110,Power Bank,Accessories,1800.00,80
+111,Printer,Electronics,15000.00,15
+112,Webcam,Accessories,2500.00,45
+113,Gaming Console,Gaming,45000.00,12
+114,Gaming Headset,Gaming,5000.00,28
+115,External SSD,Storage,7000.00,32
+116,Router,Networking,3500.00,22
+117,Bluetooth Speaker,Audio,4000.00,38
+118,Microphone,Audio,6000.00,18
+119,Laptop Stand,Accessories,1200.00,55
+120,Projector,Electronics,40000.00,8
